@@ -1,0 +1,6 @@
+E:\dbms_project\Clinic_Managment_System\Authentication\bin\Debug\Authentication.dll
+E:\dbms_project\Clinic_Managment_System\Authentication\bin\Debug\Authentication.pdb
+E:\dbms_project\Clinic_Managment_System\Authentication\obj\Debug\Authentication.csprojAssemblyReference.cache
+E:\dbms_project\Clinic_Managment_System\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+E:\dbms_project\Clinic_Managment_System\Authentication\obj\Debug\Authentication.dll
+E:\dbms_project\Clinic_Managment_System\Authentication\obj\Debug\Authentication.pdb
